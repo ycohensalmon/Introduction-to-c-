@@ -1,0 +1,2 @@
+C:\Users\ycohe\Documents\Visual Studio 2019\magic_sp\Debug\magic_sp.exe
+C:\Users\ycohe\Documents\Visual Studio 2019\magic_sp\Debug\magic_sp.pdb

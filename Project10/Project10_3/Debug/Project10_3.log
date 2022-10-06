@@ -1,0 +1,4 @@
+﻿  Source10_3.cpp
+C:\Users\ycohe\Documents\Visual Studio 2019\1. PROJECT\Project10\Project10_3\Source10_3.cpp(24,28): warning C4018: '>' : incompatibilité signed/unsigned
+C:\Users\ycohe\Documents\Visual Studio 2019\1. PROJECT\Project10\Project10_3\Source10_3.cpp(75,21): warning C4018: '<' : incompatibilité signed/unsigned
+  Project10_3.vcxproj -> C:\Users\ycohe\Documents\Visual Studio 2019\1. PROJECT\Project10\Project10_3\Debug\Project10_3.exe

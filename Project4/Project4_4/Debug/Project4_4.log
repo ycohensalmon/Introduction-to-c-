@@ -1,0 +1,4 @@
+﻿  Source4_4.cpp
+C:\Users\ycohe\Dropbox\מכון לב\שנה א\מבוא למדעי מחשב\תרגיל\visual studio\Project4\Project4_4\Source4_4.cpp(23,37): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\ycohe\Dropbox\מכון לב\שנה א\מבוא למדעי מחשב\תרגיל\visual studio\Project4\Project4_4\Source4_4.cpp(27,36): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+  Project4_4.vcxproj -> C:\Users\ycohe\Dropbox\מכון לב\שנה א\מבוא למדעי מחשב\תרגיל\visual studio\Project4\Project4_4\Debug\Project4_4.exe
